@@ -10,3 +10,5 @@ series of exercises in python
 ![alt text](image-2.png)
 # exercise 3
 ![alt text](image-4.png)
+# task complete OK! 
+![image](https://github.com/EiJhonatan/exercises_python-4/assets/103134496/dd74915c-607a-43f4-926c-7ce6e7790e91)
